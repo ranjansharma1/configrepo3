@@ -1,0 +1,5 @@
+my:
+ greeting: Welcome to Spring Boot Cloud Configuration Management
+ appName: Config Client 1 
+ list:
+   values: apple,banana,mango
